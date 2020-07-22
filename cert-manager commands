@@ -1,0 +1,13 @@
+1)
+
+
+kubectl apply -f .
+
+
+2)
+
+kubectl get pods --namespace cert-manager
+
+3)
+
+
